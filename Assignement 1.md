@@ -536,3 +536,15 @@ def intersection(l1,l2):
 print(intersection(l1,l2))
 
 4. [Union de listes](ex4.3)
+def union (11, 12):
+    13 = list(11) 
+    for e in 12:
+        if e not in 13:
+            13.append(e)
+    return 13
+   
+11 = [2, 5, 8, 12, 14,_
+12 = [3, 12 -1]
+
+
+print (union (11, 12))
